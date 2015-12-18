@@ -7,7 +7,7 @@ I felt like making a docker image for building your own package just for having 
 
 # How-to
 
-1. download docker image file
+1. download dockerfile
 2. build docker image: docker build -t ubuntu-build .
 3. make sure image is built: docker images
 4. ssh into image: docker run -t -i ubuntu-build /bin/bash
