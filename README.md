@@ -3,7 +3,7 @@ Docker image for building ibus package for Ubuntu
 
 iBus package => 1.5.11 is required for running Intellij 15 on Ubuntu
 
-I felt like making a docker image for building your own package just for fun with Docker
+I felt like making a docker image for building your own package just for having fun with Docker
 
 # How-to
 
